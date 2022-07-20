@@ -1,0 +1,11 @@
+Id,Label,timeset,indegree,outdegree,degree,weighted indegree,weighted outdegree,weighted degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,Authority,Hub,modularity_class,pageranks,componentnumber,strongcompnum,clustering,eigencentrality
+"蒋良孝",蒋良孝,,1,9,10,1,19,20,1,1,1,8,0,1,0,0.158071,0,8,0,1
+"陈小贱大白菜",陈小贱大白菜,,1,0,1,7,0,7,0,0,0,0,0.333333,0,0,0.093548,0,7,0,1
+lanefire,lanefire,,1,1,2,4,1,5,2,0.529412,0.555556,0,0.333333,0,0,0.093548,0,8,0,1
+"邮差Ethan",邮差Ethan,,1,0,1,1,0,1,0,0,0,0,0.333333,0,0,0.093548,0,6,0,1
+O追梦,O追梦,,1,0,1,2,0,2,0,0,0,0,0.333333,0,0,0.093548,0,5,0,1
+gigijiang,gigijiang,,1,0,1,1,0,1,0,0,0,0,0.333333,0,0,0.093548,0,4,0,1
+FZU物信胡书铭071803212,FZU物信胡书铭071803212,,1,0,1,1,0,1,0,0,0,0,0.333333,0,0,0.093548,0,3,0,1
+"勤奋三秒钟",勤奋三秒钟,,1,0,1,1,0,1,0,0,0,0,0.333333,0,0,0.093548,0,2,0,1
+"北海残月",北海残月,,1,0,1,1,0,1,0,0,0,0,0.333333,0,0,0.093548,0,1,0,1
+mooc59609949756700699,mooc59609949756700699,,1,0,1,1,0,1,0,0,0,0,0.333333,0,0,0.093548,0,0,0,1
